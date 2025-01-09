@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.c80fd891.css",
-    "main.js": "/static/js/main.6eb5e43f.js",
+    "main.js": "/static/js/main.3111e5a7.js",
     "static/js/787.87253c66.chunk.js": "/static/js/787.87253c66.chunk.js",
     "static/media/NBALineupsPic.png": "/static/media/NBALineupsPic.ded62669f877b99107c1.png",
     "static/media/me.jpg": "/static/media/me.e3191edd56504b177813.jpg",
     "static/media/LOLStatTrackerPic.PNG": "/static/media/LOLStatTrackerPic.1190d32931c14f98f869.PNG",
     "index.html": "/index.html",
     "main.c80fd891.css.map": "/static/css/main.c80fd891.css.map",
-    "main.6eb5e43f.js.map": "/static/js/main.6eb5e43f.js.map",
+    "main.3111e5a7.js.map": "/static/js/main.3111e5a7.js.map",
     "787.87253c66.chunk.js.map": "/static/js/787.87253c66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c80fd891.css",
-    "static/js/main.6eb5e43f.js"
+    "static/js/main.3111e5a7.js"
   ]
 }
