@@ -202,10 +202,10 @@ function App() {
             <div className="carousel-item active">
               <Project 
             
-            title={<span style={{color: "#00BFFF"  }}>LOL Stat Tracker</span>}
+            title={<span style={{color: "#00BFFF"  }}>League of Legends Stat Tracker</span>}
               imgSrc={LOLStatTrackerPic}
               infoTitle="About" 
-              infoText="LOL Stat Tracker is the ultimate companion for League of Legends players. It provides detailed, up-to-date statistics for every champion, including win rates, pick rates, ban rates, and more. Whether you’re a casual player or aiming for competitive play, LOL Stat Tracker helps you make smarter decisions and adapt to the ever-changing meta. With its intuitive interface and comprehensive data, it’s designed to keep you informed, engaged, and ahead of the competition." 
+              infoText="League of Legends Stat Tracker is the ultimate companion for League of Legends players. It provides detailed, up-to-date statistics for every champion, including win rates, pick rates, ban rates, and more. Whether you’re a casual player or aiming for competitive play, League of Legends Stat Tracker helps you make smarter decisions and adapt to the ever-changing meta. With its intuitive interface and comprehensive data, it’s designed to keep you informed, engaged, and ahead of the competition." 
               infoSecondTitle="Technology" 
               infoSecondText="LOL Stat Tracker is powered by React, JavaScript, HTML, and CSS, offering a sleek, responsive design optimized for all devices. A custom web scraper built with Puppeteer ensures real-time updates of champion statistics, providing players with the latest information. Backed by Node.js, the platform delivers reliable performance and seamless interaction, making it an essential tool for League of Legends enthusiasts."/>
             </div>
